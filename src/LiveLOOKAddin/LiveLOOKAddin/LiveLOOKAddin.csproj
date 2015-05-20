@@ -52,10 +52,6 @@
       <HintPath>..\..\..\..\..\..\lib\IceLib\IC4_2015_R2_P0 (x86)\bin\ININ.IceLib.Configuration.dll</HintPath>
       <Private>False</Private>
     </Reference>
-    <Reference Include="ININ.IceLib.Interactions">
-      <HintPath>..\..\..\..\..\..\lib\IceLib\IC4_2015_R2_P0 (x86)\bin\ININ.IceLib.Interactions.dll</HintPath>
-      <Private>False</Private>
-    </Reference>
     <Reference Include="ININ.InteractionClient.Addin">
       <HintPath>..\..\..\..\..\..\Program Files (x86)\Interactive Intelligence\ICUserApps\ININ.InteractionClient.Addin.dll</HintPath>
       <Private>False</Private>
